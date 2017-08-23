@@ -38,11 +38,3 @@ class Spot {
         return size;    //returns String of that particular spot
     }
 }
-   //class should be implemented, maybe under a spots loop?//switched canPark with isAvailable
-       //the park method in Level class implements this method and checks if
-        //this method returns true or false, and so on. Like the bus example
-        //first to get on, last to get out. Lot --> Level --> Spot, etc.
-        //returns 1 or 5, int type
-        //ask vehicle how many spot you need, int?
-//        getSpot(); //getting how many spots you need, now look for it
-        //sout newLot?
